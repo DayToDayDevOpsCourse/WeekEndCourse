@@ -15,10 +15,15 @@
     Linux-ShellScript-day-2-course (1 hr)
     Linux-ShellScript-day-3-course (1 hr)
 
-## Nexus-ShellScript :
+## Nexus :
     Nexus-day-1-course (1 hr)
     Nexus-day-2-course (1 hr)
     Nexus-day-3-course (1 hr)
+
+## Tomcat :
+    Tomcat-day-1-course (1 hr)
+    Tomcat-day-2-course (1 hr)
+    Tomcat-day-3-course (1 hr)
 
 ## Jenkins : Morning
     Jenkins-day-1-course
