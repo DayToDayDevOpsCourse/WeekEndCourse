@@ -30,11 +30,17 @@
     Jenkins-day-2-course
     Jenkins-day-3-course
 
-| Days |Morning  | Afternoon |
-| Day1 | Maven-day-1-course | GitHub-day-1-course |
-| Day2  | Maven-day-2-course | GitHub-day-2-course |
-| Day2  | Maven-day-3-course | GitHub-day-3-course |
 
-    
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Days | Morning | Afternoon |
+| --- | --- | --- |
+| Day1 | Maven-day-1-course | GitHub-day-1-course |
+| Day2 | Maven-day-2-course | GitHub-day-2-course |
+| Day3 | Maven-day-3-course | GitHub-day-3-course |
   
   
